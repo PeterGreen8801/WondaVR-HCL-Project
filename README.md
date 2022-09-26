@@ -1,4 +1,4 @@
-# WondaVR-HCL-Project
+# WondaVR: HCL Event Space Project
 
 Space 1:
 https://wvr.li/q82ay1
